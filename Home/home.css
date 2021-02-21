@@ -27,16 +27,6 @@ header ul li a{
     font-family: 'Roboto', sans-serif;
 }
 
-.warning{
-    background: linear-gradient(to left, rgb(121, 0, 0), rgb(206, 0, 0));
-    position: fixed;
-    top: 85%;
-    width: 95%;
-    padding: 10px;
-    border-radius: 5px 5px 5px 5px;
-    margin: 10px 10px 10px 10px;
-}
-
 .bj-blue-header{
     background: url(../source/img/img-header.png) no-repeat center center/cover;
     text-align: center;
