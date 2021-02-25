@@ -27,6 +27,21 @@ header ul li a{
     font-family: 'Roboto', sans-serif;
 }
 
+.warning{
+    background-color: #9e0b00;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px 5px 5px 5px;
+    position: fixed;
+    top: 85%;
+    border: solid 1px #a10b00;
+}
+
+.warning:hover{
+    transition: 300ms;
+    box-shadow: 2px 2px 20px #000000;
+}
+
 .bj-blue-header{
     background: url(../source/img/Iceberg.png) no-repeat center center/cover;
     text-align: center;
