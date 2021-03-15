@@ -131,9 +131,9 @@ footer div li a:hover{
 }
 
 .footer{
-    color: #1e1e1e;
+    color: #999999;
     text-align: center;
-    background-color: #141414;
+    background-color: #1e1e1e;
     padding: 10px;
     font-family: 'Open Sans', sans-serif;
 }
