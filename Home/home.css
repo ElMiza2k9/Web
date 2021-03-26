@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: #000000;
+    background-color: #1e1e1e;
     color: #ffffff;
 }
 
@@ -46,9 +46,12 @@ header ul li a{
     background: url(../source/img/Iceberg.png) no-repeat center center/cover;
     text-align: center;
     padding: 9.9%;
+    margin: 10px;
     color: #ffffff;
     font-family: 'Merriweather Sans', sans-serif;
     font-size: 70px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px;
 }
 
 .bj-blue-header p{
