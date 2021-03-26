@@ -51,7 +51,7 @@ header ul li a{
     font-family: 'Merriweather Sans', sans-serif;
     font-size: 70px;
     border-radius: 10px;
-    box-shadow: 0 0 10px;
+    box-shadow: 0 0 10px #000000;
 }
 
 .bj-blue-header p{
