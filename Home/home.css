@@ -144,3 +144,12 @@ footer div li a:hover{
 h1{
     font-family: 'Noto Sans', sans-serif;
 }
+/*----------*/
+/*MEDIA SCREEN*/
+/*----------*/
+
+@media screen and (max-width: 700px){
+    .center-info{
+        grid-template-columns: 50% 50%;
+    }
+}
