@@ -154,6 +154,12 @@ h1{
     }
 }
 
+@media screen and (max-width: 500px){
+    .center-info{
+        grid-template-columns: 100%;
+    }
+}
+
 @media screen and (max-width: 1112px){
     footer{
         grid-template-columns: 50% 50%;
