@@ -72,7 +72,6 @@ section{
 .center-info{
     display: grid;
     grid-template-columns: 33.33% 33.33% 33.33%;
-    background-color: #1e1e1e;
 }
 
 .center-info div{
