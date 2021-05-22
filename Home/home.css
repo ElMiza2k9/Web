@@ -75,8 +75,8 @@ section{
 }
 
 .center-info div{
-    background-color: #272727;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #000000;
     text-align: center;
     padding: 10px;
     margin: 10px;
@@ -92,8 +92,8 @@ section{
 }
 
 .center-info-2 div{
-    background-color: #272727;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #000000;
     text-align: center;
     padding: 10px;
     margin: 10px;
